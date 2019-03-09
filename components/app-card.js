@@ -22,7 +22,7 @@ import Grow from '@material-ui/core/Grow'
 const styles = theme => ({
   cardMedia: {
     paddingTop: '56.25%',
-    backgroundSize: '80% auto',
+    backgroundSize: '56.25%',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
   },

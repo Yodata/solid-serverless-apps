@@ -80,10 +80,10 @@ const applications = [
     ]
   },
   {
-    name: 'Moxiworks',
-    description: 'Dramatically increase your repeat and referral business with the help of MoxiWorks tools and services.',
+    name: 'ACE',
+    description: 'Real Estate Sales Success System.',
     logo: {
-      url: 'https://images-static.moxiworks.com/static/images/br/moxi/MoxiWorks_logo_lightBG-300x65.png'
+      url: '/static/img/ace_logo.jpg'
     },
     permissions: ALL_PERMISSIONS,
     group: [
@@ -101,7 +101,19 @@ const applications = [
       'crm'
     ]
 
-  }, {
+  },
+  {
+    name: 'Moxiworks',
+    description: 'Dramatically increase your repeat and referral business with the help of MoxiWorks tools and services.',
+    logo: {
+      url: 'https://images-static.moxiworks.com/static/images/br/moxi/MoxiWorks_logo_lightBG-300x65.png'
+    },
+    permissions: ALL_PERMISSIONS,
+    group: [
+      'crm'
+    ]
+  },
+  {
     name: 'Adwerks',
     description: 'Brilliantly simple digital advertising for real estate, mortgage, insurance, and wealth management.',
     logo: { url: 'https://cdn.adwerx.com/assets/v2/images/logos/header_logos/adwerx-header-logo@2x-e951094f78.png' },
