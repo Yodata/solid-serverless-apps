@@ -24,7 +24,7 @@ const styles = theme => ({
     paddingTop: '56.25%',
     backgroundSize: '56.25%',
     backgroundPosition: 'center',
-    backgroundRepeat: 'no-repeat',
+    backgroundRepeat: 'no-repeat'
   },
   cardContent: {
     height: '155px'
